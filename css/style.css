@@ -5,7 +5,7 @@
 /*////////// Global Styles //////////*/
 
 body {
-	background: #F3EBE9;
+	background: #f2ecec;
 	font-size: 100%;
 	font-family: 'Times New Roman', serif; 
 }
@@ -18,3 +18,23 @@ body {
 }
 
 /* Write all remaining styles here */
+
+h1, h2 {
+	color: #99aba5;
+}
+
+img {
+	border: 5px solid #99aba5;
+}
+
+img.press-link {
+	border: 4px solid #cacbcb;
+}
+
+img.press-link:hover {
+	border: 4px solid #737c78;
+}
+
+.copywright {
+	text-align: right;
+}
